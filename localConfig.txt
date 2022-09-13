@@ -1,0 +1,5 @@
+DB_HOST = localhost
+DB_NAME = usermanagement_tut
+DB_USER = adminuser
+DB_PASS = admin123
+
